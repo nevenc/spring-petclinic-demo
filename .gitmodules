@@ -13,3 +13,9 @@
 [submodule "spring-petclinic-3.5.17"]
 	path = spring-petclinic-3.5.17
 	url = https://github.com/nevenc/spring-petclinic-3.5.17.git
+[submodule "spring-petclinic-3.5.17-manually-patched"]
+	path = spring-petclinic-3.5.17-manually-patched
+	url = https://github.com/nevenc/spring-petclinic-3.5.17-manually-patched.git
+[submodule "spring-petclinic-3.5.17-patched"]
+	path = spring-petclinic-3.5.17-patched
+	url = https://github.com/nevenc/spring-petclinic-3.5.17-patched.git
