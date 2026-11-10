@@ -1,0 +1,3 @@
+trivy-reports/*.json
+target/
+build/libs/
